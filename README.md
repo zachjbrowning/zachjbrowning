@@ -3,7 +3,10 @@
 ## I'm a final year compsci student, frontend dev and sport enthusiast!!
  - 🔭 I’m currently working on building my hectic react skills
  - 🌱 I want to learn about React native (or other something appdev related)
- - 🥅 2020 Goals: Get a job...., Learn some new things, stay fit!
+ - 🥅 2020 Goals: 
+   - ~~Get a job~~✔️(cya soon Xero xx)
+   - Learn some new things
+   - stay fit!
  - ⚡ Fun fact: I enjoy running and listening to music!
 
 ### Connect with me:
