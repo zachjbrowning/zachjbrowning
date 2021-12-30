@@ -7,7 +7,7 @@
 
 <br/>
 
-<!-- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zachjbrowning&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=zachjbrowning&show_icons=true&hide_border=true" />
 
-[website]: https://zachjbrowning.tech
+[website]: https://zachjbrowning.com
 [linkedin]: https://www.linkedin.com/in/zachary-browning-2b7a01193/
